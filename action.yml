@@ -1,4 +1,4 @@
-name: 'Regex Parse'
+name: 'Regex Parser Action'
 description: 'Parses a string using a regex and outputs the matched groups'
 
 inputs:
